@@ -4,8 +4,8 @@ Fashion App Design
 
 ### Özellikleri
 
-- Flutter ile birlikte palette_generator kullanarak bir burç rehberi uygulması.
-- Palette_generator ile açılan sayfanın background rengini eklenen resmin en yoğun renklerinden seçtik.
+- Flutter ile birlikte stack kullanarak bir moda uygulaması.
+- Stack yapısı ile üst üste widget'lar nasıl yapılır.
 
 - Kod çıktıklarına buradan ulaşabilirsiniz.
 
